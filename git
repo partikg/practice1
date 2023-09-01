@@ -1,0 +1,14 @@
+ONCE PER PROJECT-
+git init
+
+git remote add origin LINK 
+git add .
+git commit -m "initial commit"
+git push origin master
+
+
+
+ON EVERY UPDATE-
+git add .
+git commit -m "initial commit"
+git push origin master 
